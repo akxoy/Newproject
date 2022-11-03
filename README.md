@@ -3,4 +3,4 @@ Newproject pro
 #hello new project1#
 ##this is new project##
 ###new idea###
-####practice for undeerstanding####
+####practice for understanding####
